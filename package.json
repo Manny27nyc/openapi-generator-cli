@@ -87,7 +87,7 @@
   },
   "dependencies": {
     "@nestjs/common": "8.2.3",
-    "@nestjs/core": "8.2.3",
+    "@nestjs/core": "9.0.5",
     "@nestjs/platform-express": "8.2.3",
     "@nuxtjs/opencollective": "0.3.2",
     "chalk": "4.1.2",
